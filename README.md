@@ -6,7 +6,7 @@
 2. 实现了注册登陆，升级，个人资料展示，频道聊天，交易，自动寻路，成就，关卡战斗等功能，基于Socket实现网络通信
 3. 战斗系统包括角色基础状态切换，技能连招，敌方简易AI驱动
 
-Demo下载：https://pan.baidu.com/s/1LUmzjZJmcxaBzgsHudeNjw?pwd=6666（因时间问题，项目中未使用资源还未去掉，故比较大）
+Demo下载（因时间问题，项目中未使用资源还未去掉，故比较大）：https://pan.baidu.com/s/1LUmzjZJmcxaBzgsHudeNjw?pwd=6666
 
 演示视频下载：https://pan.baidu.com/s/1veRBwLjBNlcbYQoddJNSaw?pwd=6666 
 
